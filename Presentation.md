@@ -13,3 +13,5 @@ Step 7: Åben git inde i den nye mappe
 # Inde i VS code
 Step 1.1: Working 
 Step 1.2: Staging
+Step 1.3: Local
+Step 1.4: Remote
