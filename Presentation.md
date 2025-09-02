@@ -19,3 +19,7 @@ Step 1.4: Remote
 # GIT
 Step 2.1: git add .
 Step 2.2: git commit -m ""
+Step 2.3: git push
+
+Step 2.4: git pull
+Step 2.5: git status (Løbende status)
