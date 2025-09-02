@@ -36,4 +36,3 @@ HUSK: Save efter ændringer i vs code (CTRL S)
 | git status | Du får en statusbesked |
 
 ![alt text](picture.png-1.png)  
-
