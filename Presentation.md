@@ -27,7 +27,8 @@ Step 2.5: git status (Løbende status)
 HUSK: Save efter ændringer i vs code (CTRL S)
 
 # Begrebstabel
-	| Begreber | Beskrivelse |
+| Begreber | Beskrivelse |
+|----------|-------------|
 | git add . | Du tilføjer din ændringer til koden |
 | git commit -m "" | En note for din ændring |
 | git push | Du sender din ændring ud |
