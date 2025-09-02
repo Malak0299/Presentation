@@ -28,7 +28,6 @@ HUSK: Save efter ændringer i vs code (CTRL S)
 
 # Begrebstabel
 	| Begreber | Beskrivelse |
-| ----------- | ----------- |
 | git add . | Du tilføjer din ændringer til koden |
 | git commit -m "" | En note for din ændring |
 | git push | Du sender din ændring ud |
