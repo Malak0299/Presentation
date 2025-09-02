@@ -37,3 +37,6 @@ Step 2.6: git status (Løbende status)
 | git status | Du får en statusbesked |
 
 ![alt text](picture.png-1.png)  
+
+
+Hej med dig
