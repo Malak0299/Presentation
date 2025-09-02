@@ -34,3 +34,5 @@ HUSK: Save efter ændringer i vs code (CTRL S)
 | git push | Du sender din ændring ud |
 | git pull | Du henter de seneste ændringer |
 | git status | Du får en statusbesked |
+
+![alt text](picture.png-1.png)
