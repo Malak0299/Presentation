@@ -26,7 +26,7 @@ Step 2.5: git pull
 
 *Step 2.6: git status (Løbende status)*
 
-**HUSK: Save efter ændringer i vs code (CTRL S)**
+>**HUSK: Save efter ændringer i vs code (CTRL S)**
 
 #### Begrebstabel
 | Begreber | Beskrivelse |
