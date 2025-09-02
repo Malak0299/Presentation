@@ -24,4 +24,13 @@ Step 2.3: git push
 Step 2.4: git pull
 Step 2.5: git status (Løbende status)
 
-HUSK: Save efter ændringer i vs code
+HUSK: Save efter ændringer i vs code (CTRL S)
+
+# Begrebstabel
+	| Begreber | Beskrivelse |
+| ----------- | ----------- |
+| git add . | Du tilføjer din ændringer til koden |
+| git commit -m "" | En note for din ændring |
+| git push | Du sender din ændring ud |
+| git pull | Du henter de seneste ændringer |
+| git status | Du får en statusbesked |
