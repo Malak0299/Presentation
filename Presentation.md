@@ -23,3 +23,5 @@ Step 2.3: git push
 
 Step 2.4: git pull
 Step 2.5: git status (Løbende status)
+
+HUSK: Save efter ændringer i vs code
