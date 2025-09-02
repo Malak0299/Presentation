@@ -3,7 +3,7 @@
 
 #### GITHUB
 Step 1: Lav en ny mappe, med en .md tekst fil.
-Step 2: Åben GIT i mappen.
+Step 2: Åben **GIT** mappen.
 Step 3: Åben Github, og lav ny REP
 Step 4: Add collab
 Step 5: git clone (LINK)
@@ -37,4 +37,3 @@ HUSK: Save efter ændringer i vs code (CTRL S)
 
 ![alt text](picture.png-1.png)  
 
-hej hej 
