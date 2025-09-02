@@ -9,3 +9,7 @@ Step 4: Add collab
 Step 5: git clone (LINK)
 Step 6: Åben den nye mappe
 Step 7: Åben git inde i den nye mappe
+
+# Inde i VS code
+Step 1.1: Working 
+Step 1.2: Staging
